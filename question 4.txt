@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="my style2.css">
+</head>
+<body>
+   <header></header>
+      <article>
+         <img id="photo" src="D:\prashashree\ai.jpg" height="250px" width="380px"><br><br> 
+         <button style="border:1px solid grey;  border-radius:45px;   padding:5px 10px;   margin-left:30px;   font-size:16px;   background-color:white;   opacity: 0.7;">AI</button> 
+         <button style="border:1px solid grey;border-radius: 45px;padding:5px 10px; margin-left: 3px; fontsize: 16px;background-color: white;opacity: 0.7;">ML</button><br> 
+         <h1 class="left" style=";font-size:30px;font-family:Verdana; ">
+            <strong><abbr title="Artificail Intelligence ">AI</abbr></strong>
+         </h1>
+         <p class="left" style="font-size:20px;opacity: 0.7;">AI is the science of humans when machine learn and make decision similar to humans. It is the science of machines developing intelligence like humans.</p>
+         <center><button style="border:1px rgb(125, 124, 124);border-radius:90px ;padding:18px
+            33px;background-color: rgb(228, 227, 227);">
+            <span style="color:rgb(5, 152, 210);font-size:16px">Read More</span></button> 
+         </center>
+      </article>
+      <footer>
+         Designed by Prashashree
+      </footer>
+   </body>
+</html>
